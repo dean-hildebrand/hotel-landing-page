@@ -70,3 +70,10 @@ p {
     background: #444;
     color: #f7c08a;
 }
+
+/* Showcase */
+
+#showcase {
+    background: url('../images/showcase.jpg') no-repeat center center/cover; 
+    height: 600px;
+}
